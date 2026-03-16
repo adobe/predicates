@@ -1,0 +1,7 @@
+@PACKAGE_INIT@
+
+include("${CMAKE_CURRENT_LIST_DIR}/adobe-predicates-targets.cmake")
+
+check_required_components(predicates)
+
+add_library(adobe::predicates ALIAS adobe-predicates)

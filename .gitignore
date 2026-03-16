@@ -1,0 +1,12 @@
+.vscode
+.vs
+.idea
+.clangd
+.cache
+
+*.swp
+*.DS_Store
+*.sw?
+*.user
+
+build/

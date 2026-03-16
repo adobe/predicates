@@ -25,3 +25,7 @@ Possible improvements include:
 ## Licensing
 
 The original code has been placed in the public domain by the author, Jonathan Richard Shewchuk, as stated on the [original website](https://www.cs.cmu.edu/~quake/robust.html). This repository is licensed under the [MIT License](LICENSE).
+
+### Contributing
+
+Contributions are welcomed! Read the [Contributing Guide](https://github.com/adobe/.github/blob/main/.github/CONTRIBUTING.md) for more information.
